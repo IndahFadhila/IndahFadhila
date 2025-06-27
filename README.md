@@ -32,6 +32,7 @@ I'm always open to interesting collaborations, frontend opportunities, or just t
 
 - LinkedIn: https://www.linkedin.com/in/indah-fadhilawati/
 - Email: indahfadhilaw@gmail.com
+- Portofolio : https://indahfadhila.netlify.app/
 
 ### ⚡ Fun Facts
 - When I'm not coding, I love design, drawing and gaming
