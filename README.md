@@ -5,6 +5,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://media.tenor.com/lI2m82jXbzEAAAAj/moss-mossmellow.gif" width="200" alt="Sleepy bunny girl" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/indah-fadhilawati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://indahfadhila.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:indahfadhilaw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
