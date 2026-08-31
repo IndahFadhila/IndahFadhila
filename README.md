@@ -17,6 +17,42 @@
 
 ---
 
+<!-- CHARACTER PREVIEW - pick your favourite, tell Claude, the others get removed -->
+## Character Preview (temporary - pick one)
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Option A</strong><br/>Anime coding girl<br/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-92da77b52caa.gif" width="220"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Option B</strong><br/>Peeking dev (corner)<br/>
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca11dcaf6c53.png" width="220"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Option C</strong><br/>Lofi girl studying<br/>
+      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="220"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Option D</strong><br/>Cute pink coder<br/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="220"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Option E</strong><br/>Purple dev with laptop<br/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="220"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Option F</strong><br/>Waving pixel character<br/>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```typescript
