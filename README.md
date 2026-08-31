@@ -1,15 +1,15 @@
-<h1 align="center">
-  <a href="https://indahfadhila.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Hi+there!+I'm+Indah+Fadhila+%F0%9F%92%9C;Frontend+Developer+%7C+Web+Developer;QA+Analyst+%7C+UI%2FUX+Enthusiast;Creative+Coder+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <b>Option 1 — Sleepy bunny</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Option 2 — Pink-hair anime girl</b><br/>
-  <img src="https://media.tenor.com/lI2m82jXbzEAAAAj/moss-mossmellow.gif" width="200" alt="Sleepy bunny girl" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/ghgJFvBbIp4AAAAj/100-girlfriends-100-kanojo.gif" width="200" alt="Pink-hair anime girl" />
-</p>
+<table align="center">
+  <tr>
+    <td width="60%" valign="middle">
+      <a href="https://indahfadhila.netlify.app/">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila;Frontend+Developer+%7C+Web+Developer;QA+Analyst+%7C+UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Typing SVG" />
+      </a>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://media.tenor.com/lI2m82jXbzEAAAAj/moss-mossmellow.gif" width="220" alt="Sleepy bunny" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/indah-fadhilawati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,9 +29,9 @@
 ```typescript
 const indah = {
   roles: ["Frontend Developer", "Web Developer", "QA Analyst"],
-  location: "Indonesia",
+  location: "Somewhere on Earth 🌍",
   focus: ["Beautiful UIs", "Responsive Design", "Quality Assurance"],
-  currentlyLearning: ["TypeScript", "Advanced React", "Test Automation"],
+  currentlyLearning: ["TypeScript", "Advanced React", "Web3"],
   philosophy: "Learn by building. Every project is an opportunity to grow.",
   funFact: "Coffee + Music + Code = maximum productivity ☕🎵"
 };
@@ -48,14 +48,10 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h3>Frontend</h3>
-      <p><img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,sass,bootstrap" /></p>
-      <h3>Backend & Tools</h3>
-      <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,gitlab,vscode" /></p>
-      <h3>Testing & QA</h3>
-      <p><img src="https://skillicons.dev/icons?i=postman,jest,cypress,selenium" /></p>
-      <h3>Design</h3>
-      <p><img src="https://skillicons.dev/icons?i=figma,ps,ai" /></p>
+      <h3>Frontend Expertise</h3>
+      <p><img src="https://skillicons.dev/icons?i=js,react,vue,tailwind,html,css" /></p>
+      <h3>Tools & Backend</h3>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,git,github,gitlab,figma" /></p>
     </td>
     <td width="30%" valign="middle" align="center">
       <img src="https://media.tenor.com/AlApU9C3uXgAAAAj/anime.gif" width="240" alt="Anime character" />
@@ -69,23 +65,32 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <strong>⚡ Advanced React Patterns</strong><br/>
-      <sub>Hooks, Context, and performance optimization</sub>
+    <td width="70%" valign="middle">
+      <table>
+        <tr>
+          <td align="center" width="50%">
+            <strong>⚡ Advanced React Patterns</strong><br/>
+            <sub>Hooks, Context, and performance optimization</sub>
+          </td>
+          <td align="center" width="50%">
+            <strong>🎯 TypeScript</strong><br/>
+            <sub>Building type-safe, scalable applications</sub>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="50%">
+            <strong>🚀 Web Performance & SEO</strong><br/>
+            <sub>Core Web Vitals and lighthouse scoring</sub>
+          </td>
+          <td align="center" width="50%">
+            <strong>🔗 Web3 & Blockchain</strong><br/>
+            <sub>Exploring next-generation technologies</sub>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="50%">
-      <strong>🎯 TypeScript</strong><br/>
-      <sub>Building type-safe, scalable applications</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>🚀 Web Performance & SEO</strong><br/>
-      <sub>Core Web Vitals and lighthouse scoring</sub>
-    </td>
-    <td align="center" width="50%">
-      <strong>🔗 Web3 & Blockchain</strong><br/>
-      <sub>Exploring next-generation technologies</sub>
+    <td width="30%" valign="middle" align="center">
+      <img src="https://media.tenor.com/ghgJFvBbIp4AAAAj/100-girlfriends-100-kanojo.gif" width="220" alt="Pink-hair anime girl" />
     </td>
   </tr>
 </table>
@@ -215,6 +220,10 @@ I'm always open to exciting collaborations, frontend opportunities, and tech con
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/kzSw2I-cuN8AAAAd/gojo-satoru-gojo.gif" width="400" alt="Gojo - Nah, I'd win" />
 </p>
 
 <p align="center">
