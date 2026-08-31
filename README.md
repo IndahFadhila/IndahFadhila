@@ -29,7 +29,6 @@
 ```typescript
 const indah = {
   roles: ["Frontend Developer", "Web Developer", "QA Analyst"],
-  location: "Somewhere on Earth 🌍",
   focus: ["Beautiful UIs", "Responsive Design", "Quality Assurance"],
   currentlyLearning: ["TypeScript", "Advanced React", "Web3"],
   philosophy: "Learn by building. Every project is an opportunity to grow.",
@@ -148,17 +147,17 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IndahFadhila&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=IndahFadhila&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=indahfadhila&show_icons=true&theme=radical&hide_border=true&rank_icon=github&v=3" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=indahfadhila&theme=radical&hide_border=true&v=3" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndahFadhila&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
-  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=IndahFadhila&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahfadhila&layout=compact&theme=radical&hide_border=true&langs_count=8&v=3" alt="Top languages" />
+  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=indahfadhila&theme=react-dark&hide_border=true&area=true&v=3" alt="Activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IndahFadhila&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=indahfadhila&theme=radical&no-frame=true&column=7&margin-w=8&v=3" alt="Trophies" />
 </p>
 
 ---
