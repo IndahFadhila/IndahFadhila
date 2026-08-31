@@ -46,14 +46,16 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="35%" valign="middle" align="center">
       <h3>Frontend Expertise</h3>
-      <p><img src="https://skillicons.dev/icons?i=js,react,vue,tailwind,html,css" /></p>
-      <h3>Tools & Backend</h3>
-      <p><img src="https://skillicons.dev/icons?i=nodejs,git,github,gitlab,figma" /></p>
+      <p><img src="https://skillicons.dev/icons?i=js,react,vue,tailwind,html,css&perline=3" /></p>
     </td>
     <td width="30%" valign="middle" align="center">
-      <img src="https://media.tenor.com/AlApU9C3uXgAAAAj/anime.gif" width="240" alt="Anime character" />
+      <img src="https://media.tenor.com/AlApU9C3uXgAAAAj/anime.gif" width="220" alt="Anime character" />
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <h3>Tools & Backend</h3>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,git,github,gitlab,figma&perline=3" /></p>
     </td>
   </tr>
 </table>
@@ -214,7 +216,7 @@ I'm always open to exciting collaborations, frontend opportunities, and tech con
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
 </p>
 
 <p align="center">
