@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://indahfadhila.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Indah+Fadhila+%F0%9F%92%9C;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Creative+Coder+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Turning+ideas+into+digital+realities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Hi+there!+I'm+Indah+Fadhila+%F0%9F%92%9C;Frontend+Developer+%7C+Web+Developer;QA+Analyst+%7C+UI%2FUX+Enthusiast;Creative+Coder+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -21,16 +21,16 @@
 
 ```typescript
 const indah = {
-  role: "Frontend Developer",
+  roles: ["Frontend Developer", "Web Developer", "QA Analyst"],
   location: "Indonesia",
-  focus: ["Beautiful UIs", "Responsive Design", "Web Performance"],
-  currentlyLearning: ["TypeScript", "Advanced React", "Web3"],
+  focus: ["Beautiful UIs", "Responsive Design", "Quality Assurance"],
+  currentlyLearning: ["TypeScript", "Advanced React", "Test Automation"],
   philosophy: "Learn by building. Every project is an opportunity to grow.",
   funFact: "Coffee + Music + Code = maximum productivity ☕🎵"
 };
 ```
 
-I'm a passionate **Frontend Developer** who loves crafting web experiences that are beautiful, responsive, and genuinely useful. I care about clean code, thoughtful design, and the small details that make an interface feel effortless to use.
+I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web experiences that are beautiful, responsive, and thoroughly tested. I care about clean code, thoughtful design, and the small details that make an interface feel effortless to use - then I break things on purpose to make sure they don't break in production.
 
 > *"First, solve the problem. Then, write the code."* - John Johnson
 
@@ -46,6 +46,11 @@ I'm a passionate **Frontend Developer** who loves crafting web experiences that 
 <h3>Backend & Tools</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,gitlab,vscode" />
+</p>
+
+<h3>Testing & QA</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,jest,cypress,selenium" />
 </p>
 
 <h3>Design</h3>
@@ -133,17 +138,17 @@ I'm a passionate **Frontend Developer** who loves crafting web experiences that 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=indahfadhila&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9&border_color=30363D&hide_border=false" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=indahfadhila&theme=radical&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&border=30363D" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IndahFadhila&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=IndahFadhila&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahfadhila&layout=compact&theme=radical&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_color=30363D&langs_count=8" />
-  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=indahfadhila&theme=react-dark&bg_color=0D1117&color=A855F7&line=EC4899&point=FFFFFF&hide_border=false&border_color=30363D&area=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndahFadhila&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
+  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=IndahFadhila&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indahfadhila&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IndahFadhila&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 </p>
 
 ---
