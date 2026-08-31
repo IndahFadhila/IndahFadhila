@@ -5,7 +5,10 @@
 </h1>
 
 <p align="center">
+  <b>Option 1 — Sleepy bunny</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Option 2 — Pink-hair anime girl</b><br/>
   <img src="https://media.tenor.com/lI2m82jXbzEAAAAj/moss-mossmellow.gif" width="200" alt="Sleepy bunny girl" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/ghgJFvBbIp4AAAAj/100-girlfriends-100-kanojo.gif" width="200" alt="Pink-hair anime girl" />
 </p>
 
 <p align="center">
