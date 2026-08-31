@@ -147,17 +147,13 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=indahfadhila&show_icons=true&theme=radical&hide_border=true&rank_icon=github&v=3" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=indahfadhila&theme=radical&hide_border=true&v=3" alt="GitHub streak" />
+  <img src="https://img.shields.io/github/followers/indahfadhila?label=Followers&style=for-the-badge&color=A855F7&logo=github&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/indahfadhila?label=Total%20Stars&style=for-the-badge&color=EC4899&logo=github&labelColor=0D1117" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=A855F7&label=Public%20Repos&style=for-the-badge&logo=github&labelColor=0D1117&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Findahfadhila" alt="Public repos" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahfadhila&layout=compact&theme=radical&hide_border=true&langs_count=8&v=3" alt="Top languages" />
-  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=indahfadhila&theme=react-dark&hide_border=true&area=true&v=3" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indahfadhila&theme=radical&no-frame=true&column=7&margin-w=8&v=3" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=indahfadhila&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=EC4899&fire=EC4899&currStreakLabel=A855F7" alt="GitHub streak" />
 </p>
 
 ---
