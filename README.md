@@ -45,25 +45,23 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
-<h3>Frontend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,sass,bootstrap" />
-</p>
-
-<h3>Backend & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,gitlab,vscode" />
-</p>
-
-<h3>Testing & QA</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,jest,cypress,selenium" />
-</p>
-
-<h3>Design</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h3>Frontend</h3>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,sass,bootstrap" /></p>
+      <h3>Backend & Tools</h3>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,gitlab,vscode" /></p>
+      <h3>Testing & QA</h3>
+      <p><img src="https://skillicons.dev/icons?i=postman,jest,cypress,selenium" /></p>
+      <h3>Design</h3>
+      <p><img src="https://skillicons.dev/icons?i=figma,ps,ai" /></p>
+    </td>
+    <td width="30%" valign="middle" align="center">
+      <img src="https://media.tenor.com/AlApU9C3uXgAAAAj/anime.gif" width="240" alt="Anime character" />
+    </td>
+  </tr>
+</table>
 
 ---
 
