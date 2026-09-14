@@ -7,9 +7,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1200&color=A855F7&center=true&vCenter=true&width=800&height=65&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila" alt="Name typing" />
   </a>
   <br />
-  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=650&height=50&lines=Frontend+Developer;Web+Developer;QA+Analyst;UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Roles typing" />
 </div>
+
+<br />
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/indah-fadhilawati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -158,25 +160,27 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28"> What I Do
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/2721/2721620.png" width="60"/><br/>
+    <td align="center" width="50%">
+      <img src="https://cdn-icons-png.flaticon.com/128/2721/2721620.png" width="72"/><br/>
       <strong>Beautiful UIs</strong><br/>
       <sub>Accessible and delightful</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/2721/2721296.png" width="60"/><br/>
+    <td align="center" width="50%">
+      <img src="https://cdn-icons-png.flaticon.com/128/2721/2721296.png" width="72"/><br/>
       <strong>Clean Code</strong><br/>
       <sub>Readable and maintainable</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/2721/2721215.png" width="60"/><br/>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://cdn-icons-png.flaticon.com/128/2721/2721215.png" width="72"/><br/>
       <strong>Responsive Design</strong><br/>
       <sub>Every screen, every device</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/128/2721/2721274.png" width="60"/><br/>
+    <td align="center" width="50%">
+      <img src="https://cdn-icons-png.flaticon.com/128/2721/2721274.png" width="72"/><br/>
       <strong>Performance First</strong><br/>
       <sub>Fast, efficient, SEO-friendly</sub>
     </td>
