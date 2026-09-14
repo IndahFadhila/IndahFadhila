@@ -2,15 +2,13 @@
   <img src="https://media.tenor.com/lI2m82jXbzEAAAAj/moss-mossmellow.gif" width="180" alt="Sleepy bunny" />
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://indahfadhila.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=A855F7&center=true&vCenter=true&width=700&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila" alt="Name typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=A855F7&center=true&vCenter=true&width=700&height=55&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila" alt="Name typing" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=560&height=45&lines=Frontend+Developer;Web+Developer;QA+Analyst;UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Roles typing" />
-</p>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=560&height=35&lines=Frontend+Developer;Web+Developer;QA+Analyst;UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Roles typing" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/indah-fadhilawati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -153,14 +151,13 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
   <img src="https://img.shields.io/github/followers/indahfadhila?label=Followers&style=for-the-badge&color=A855F7&logo=github&labelColor=0D1117" alt="Followers" />
   <img src="https://img.shields.io/github/stars/indahfadhila?label=Total%20Stars&style=for-the-badge&color=EC4899&logo=github&labelColor=0D1117" alt="Stars" />
   <img src="https://img.shields.io/badge/dynamic/json?color=A855F7&label=Public%20Repos&style=for-the-badge&logo=github&labelColor=0D1117&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Findahfadhila" alt="Public repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=EC4899&label=Public%20Gists&style=for-the-badge&logo=github&labelColor=0D1117&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Findahfadhila" alt="Public gists" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indahfadhila&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indahfadhila&bg_color=0D1117&color=A855F7&line=EC4899&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
+  <a href="https://github.com/indahfadhila">
+    <img src="https://ghchart.rshah.org/A855F7/indahfadhila" alt="Contribution graph" width="90%" />
+  </a>
 </p>
 
 ---
