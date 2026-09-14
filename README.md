@@ -4,10 +4,11 @@
 
 <div align="center">
   <a href="https://indahfadhila.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=A855F7&center=true&vCenter=true&width=700&height=55&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila" alt="Name typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1200&color=A855F7&center=true&vCenter=true&width=800&height=65&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila" alt="Name typing" />
   </a>
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=560&height=35&lines=Frontend+Developer;Web+Developer;QA+Analyst;UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Roles typing" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=650&height=50&lines=Frontend+Developer;Web+Developer;QA+Analyst;UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Roles typing" />
 </div>
 
 <p align="center">
@@ -43,54 +44,47 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
-<table>
-  <tr>
-    <td width="35%" valign="middle" align="center">
-      <h3>Frontend Expertise</h3>
-      <p><img src="https://skillicons.dev/icons?i=js,react,vue,tailwind,html,css&perline=3" /></p>
-    </td>
-    <td width="30%" valign="middle" align="center">
-      <img src="https://media.tenor.com/AlApU9C3uXgAAAAj/anime.gif" width="220" alt="Anime character" />
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <h3>Tools & Backend</h3>
-      <p><img src="https://skillicons.dev/icons?i=nodejs,git,github,gitlab,figma&perline=3" /></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.tenor.com/AlApU9C3uXgAAAAj/anime.gif" width="220" alt="Anime character" />
+</p>
+
+<h3 align="center">Frontend Expertise</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,vue,tailwind,html,css&perline=6" />
+</p>
+
+<h3 align="center">Tools & Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,gitlab,figma&perline=5" />
+</p>
 
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Currently Leveling Up
 
-<table>
+<p align="center">
+  <img src="https://media.tenor.com/ghgJFvBbIp4AAAAj/100-girlfriends-100-kanojo.gif" width="220" alt="Pink-hair anime girl" />
+</p>
+
+<table align="center">
   <tr>
-    <td width="70%" valign="middle">
-      <table>
-        <tr>
-          <td align="center" width="50%">
-            <strong>⚡ Advanced React Patterns</strong><br/>
-            <sub>Hooks, Context, and performance optimization</sub>
-          </td>
-          <td align="center" width="50%">
-            <strong>🎯 TypeScript</strong><br/>
-            <sub>Building type-safe, scalable applications</sub>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" width="50%">
-            <strong>🚀 Web Performance & SEO</strong><br/>
-            <sub>Core Web Vitals and lighthouse scoring</sub>
-          </td>
-          <td align="center" width="50%">
-            <strong>🔗 Web3 & Blockchain</strong><br/>
-            <sub>Exploring next-generation technologies</sub>
-          </td>
-        </tr>
-      </table>
+    <td align="center" width="50%">
+      <strong>⚡ Advanced React Patterns</strong><br/>
+      <sub>Hooks, Context, and performance optimization</sub>
     </td>
-    <td width="30%" valign="middle" align="center">
-      <img src="https://media.tenor.com/ghgJFvBbIp4AAAAj/100-girlfriends-100-kanojo.gif" width="220" alt="Pink-hair anime girl" />
+    <td align="center" width="50%">
+      <strong>🎯 TypeScript</strong><br/>
+      <sub>Building type-safe, scalable applications</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🚀 Web Performance & SEO</strong><br/>
+      <sub>Core Web Vitals and lighthouse scoring</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>🔗 Web3 & Blockchain</strong><br/>
+      <sub>Exploring next-generation technologies</sub>
     </td>
   </tr>
 </table>
