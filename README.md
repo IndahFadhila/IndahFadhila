@@ -4,8 +4,12 @@
 
 <p align="center">
   <a href="https://indahfadhila.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=140&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila;Frontend+Developer+%7C+Web+Developer;QA+Analyst+%7C+UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=A855F7&center=true&vCenter=true&width=700&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila" alt="Name typing" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=560&height=45&lines=Frontend+Developer;Web+Developer;QA+Analyst;UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Roles typing" />
 </p>
 
 <p align="center">
@@ -152,11 +156,11 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indahfadhila&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=FFFFFF&count_private=true" alt="GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=indahfadhila&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahfadhila&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indahfadhila&bg_color=0D1117&color=A855F7&line=EC4899&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
 ---
