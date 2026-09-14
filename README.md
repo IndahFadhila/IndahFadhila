@@ -1,15 +1,12 @@
-<table align="center">
-  <tr>
-    <td width="70%" valign="middle">
-      <a href="https://indahfadhila.netlify.app/">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=90&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila;Frontend+Developer+%7C+Web+Developer;QA+Analyst+%7C+UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Typing SVG" />
-      </a>
-    </td>
-    <td width="30%" valign="middle" align="center">
-      <img src="https://media.tenor.com/lI2m82jXbzEAAAAj/moss-mossmellow.gif" width="200" alt="Sleepy bunny" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.tenor.com/lI2m82jXbzEAAAAj/moss-mossmellow.gif" width="180" alt="Sleepy bunny" />
+</p>
+
+<p align="center">
+  <a href="https://indahfadhila.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=140&lines=Hi+there+%F0%9F%91%8B+I'm+Indah+Fadhila;Frontend+Developer+%7C+Web+Developer;QA+Analyst+%7C+UI%2FUX+Enthusiast;Creative+Coder+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/indah-fadhilawati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -155,7 +152,11 @@ I'm a passionate **Web Developer** and **QA Analyst** who loves crafting web exp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=indahfadhila&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=EC4899&fire=EC4899&currStreakLabel=A855F7" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=indahfadhila&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=FFFFFF&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahfadhila&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top languages" />
 </p>
 
 ---
